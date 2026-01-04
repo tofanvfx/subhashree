@@ -7,10 +7,12 @@ import Experience from './sections/Experience';
 import Work from './sections/Work';
 import Contact from './sections/Contact';
 import Footer from './components/Footer';
+import ScrollManager from './components/ScrollManager';
 
 function App() {
   return (
     <div className="min-h-screen bg-background text-text font-sans antialiased overflow-x-hidden selection:bg-secondary/30">
+      <ScrollManager />
       <Navbar />
       <main>
         <Hero />
