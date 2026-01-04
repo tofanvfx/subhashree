@@ -55,7 +55,7 @@ const Work = () => {
             category: 'graphic',
             image: img5,
             tags: ['Illustrator', 'Vector Art', 'Logos'],
-            description: "A curation of logo designs created for diverse startups and established businesses."
+            description: "A vector-based character design exploring multiple poses and expressions to ensure consistency, flexibility, and clarity across illustrations, animations, and storytelling projects."
         },
         {
             id: 6,
@@ -63,7 +63,7 @@ const Work = () => {
             category: 'graphic',
             image: img6,
             tags: ['Dimension', 'Packaging', '3D'],
-            description: "Innovative packaging concepts designed to stand out on shelves and enhance the unboxing experience."
+            description: "A detailed illustration composition depicting a lively Indian marketplace and fair environment. The artwork focuses on visual balance, depth, character placement, and storytelling through everyday scenes, creating a rich and engaging narrative-driven composition."
         },
         // UI/UX Design (7-9)
         {
@@ -72,7 +72,7 @@ const Work = () => {
             category: 'ui-ux',
             image: img7,
             tags: ['Figma', 'Mobile App', 'Prototyping'],
-            description: "A comprehensive mobile learning application designed to make education accessible and engaging for students."
+            description: "A visual representation of the UX research process, showcasing a user-centered approach from problem discovery to solution validation."
         },
         {
             id: 8,
@@ -80,7 +80,7 @@ const Work = () => {
             category: 'ui-ux',
             image: img8,
             tags: ['Figma', 'Web Design', 'Data Viz'],
-            description: "A data-rich analytics dashboard providing actionable insights through clean, intuitive visualizations."
+            description: "Low-fidelity mobile wireframes created to define screen structure, content hierarchy, and user flow. These wireframes focus on usability, navigation clarity, and layout consistency before moving into visual design."
         },
         {
             id: 9,
@@ -88,7 +88,7 @@ const Work = () => {
             category: 'ui-ux',
             image: img9,
             tags: ['Adobe XD', 'Web App', 'Interaction'],
-            description: "User interface design for an online course platform, streamlining the learning management process."
+            description: "A visual journey from wireframes to high-fidelity mockups, showcasing structured thinking and polished UI execution."
         }
     ];
 
