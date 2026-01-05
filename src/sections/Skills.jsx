@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Figma, PenTool, Image, Video, Layers, Monitor } from 'lucide-react';
+import { Figma, PenTool, Image, Video, Layers, Monitor, Bot, Sparkles, Palette } from 'lucide-react';
 
 const Skills = () => {
     const skills = [
@@ -10,6 +10,9 @@ const Skills = () => {
         { name: 'Adobe XD', icon: <Monitor size={32} />, color: 'text-pink-500', bg: 'bg-pink-500/10' },
         { name: 'After Effects', icon: <Video size={32} />, color: 'text-indigo-500', bg: 'bg-indigo-500/10' },
         { name: 'Adobe Animate', icon: <Layers size={32} />, color: 'text-red-500', bg: 'bg-red-500/10' },
+        { name: 'ChatGPT', icon: <Bot size={32} />, color: 'text-emerald-500', bg: 'bg-emerald-500/10' },
+        { name: 'Gemini', icon: <Sparkles size={32} />, color: 'text-sky-500', bg: 'bg-sky-500/10' },
+        { name: 'Canva', icon: <Palette size={32} />, color: 'text-cyan-500', bg: 'bg-cyan-500/10' },
     ];
 
     return (
